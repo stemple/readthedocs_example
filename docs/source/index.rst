@@ -18,3 +18,14 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Test
+====
+
+.. note::
+   
+   Setting ``collapse_navigation`` to False and using a high ``navigation_depth``
+   can cause projects with many files and a deep file structure to generate HTML files
+   that are significantly larger in file size and much longer compilation times.
+
