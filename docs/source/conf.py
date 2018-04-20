@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'tychosdocs'
+project = u'Tychos Documentation'
 copyright = u'2018, Steve Temple'
 author = u'Steve Temple'
 
