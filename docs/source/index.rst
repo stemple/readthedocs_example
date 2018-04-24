@@ -16,7 +16,7 @@ The code is open source, and `available on GitHub`_.
 The main documentation for the site is organized into a couple sections:
 
 * :ref:`learn-docs`
-* :ref:`tacher-docs`
+* :ref:`teacher-docs`
 * :ref:`about-docs`
 
    
